@@ -4,6 +4,7 @@ A complete guide to advanced Python concepts with examples and real-world use ca
 
 📌 Table of Contents
 
+Exception Handling (Advanced)
 Iterators & Generators
 Decorators
 Closures
@@ -14,13 +15,9 @@ Memory Management & Internals
 Multithreading & Multiprocessing
 Async IO
 Modules & Packages
-Exception Handling (Advanced)
 Introspection & Reflection
 Design Patterns in Python
 Data Classes & Named Tuples
 Type Hinting & Annotations
 File Handling (Advanced)
-Networking
-Concurrency & Parallelism
-Testing & Debugging
-Advanced Libraries
+
