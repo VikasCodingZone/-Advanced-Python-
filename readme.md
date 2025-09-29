@@ -10,14 +10,5 @@ Decorators
 Closures
 Functional Programming
 Context Managers
-Metaclasses
-Memory Management & Internals
-Multithreading & Multiprocessing
-Async IO
-Modules & Packages
-Introspection & Reflection
-Design Patterns in Python
-Data Classes & Named Tuples
-Type Hinting & Annotations
-File Handling (Advanced)
+
 
