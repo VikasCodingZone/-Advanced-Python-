@@ -7,8 +7,9 @@ A complete guide to advanced Python concepts with examples and real-world use ca
  Exception Handling (Advanced) -
  Iterators & Generators -
  Decorators - 
- Closures - 
- Functional Programming - 
- Context Managers 
+ File handling - 
+ Recursion
+
+
 
 
